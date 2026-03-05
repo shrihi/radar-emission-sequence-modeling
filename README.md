@@ -105,7 +105,6 @@ The prediction framework achieved approximately **52% Top-5 accuracy**, indicati
 
 ```
 assets/
-   architecture.png
    embedding_diagram.png
    confusion_matrix.png
    training_curve.png
